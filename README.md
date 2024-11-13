@@ -4,3 +4,4 @@ SetupGuide
 MaterialFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
