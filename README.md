@@ -5,3 +5,4 @@ MaterialFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
