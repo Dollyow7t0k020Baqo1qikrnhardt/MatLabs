@@ -12,3 +12,4 @@ MaterialsFAQ
 Changelog
 TestingInstructions
 MaterialPerformance
+CommunityResources
